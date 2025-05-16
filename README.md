@@ -4,6 +4,12 @@ This MATLAB script demonstrates a real-time face detection and tracking system u
 
 ---
 
+## Demo Video
+
+Watch the system in action: [Demo Video](https://drive.google.com/file/d/1ng_E0owZkhUSUoxbEsYStGDUcI3-Te0k/view?usp=sharing)
+
+---
+
 ## Prerequisites
 
 Ensure that you have the following installed and set up before running the script:
@@ -52,4 +58,3 @@ Follow these steps to run the script:
 ### Additional Information
 
 For more details on each part of the code and its functionality, refer to the **comments within the script**.
-
